@@ -68,18 +68,18 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="mailto:support@healthplus.com">support@healthplus.com</a>
+              <a href="#">support@healthplus.com</a>
             </li>
             <li>
-              <a href="mailto:appointment@healthplus.com">
+              <a href="#">
                 appointment@healthplus.com
               </a>
             </li>
             <li>
-              <a href="tel:+022 5454 5252">+022 5454 5252</a>
+              <a href="#">+022 5454 5252</a>
             </li>
             <li>
-              <a href="tel:+022 2326 6232">+022 2326 6232</a>
+              <a href="#">+022 2326 6232</a>
             </li>
           </ul>
         </div>
