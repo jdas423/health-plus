@@ -68,18 +68,18 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="#">support@healthplus.com</a>
+              <a href="#services">support@healthplus.com</a>
             </li>
             <li>
-              <a href="#">
+              <a href="#services">
                 appointment@healthplus.com
               </a>
             </li>
             <li>
-              <a href="#">+022 5454 5252</a>
+              <a href="#services">+022 5454 5252</a>
             </li>
             <li>
-              <a href="#">+022 2326 6232</a>
+              <a href="#services">+022 2326 6232</a>
             </li>
           </ul>
         </div>
@@ -91,7 +91,7 @@ function Footer() {
         <ul className="ft-social-links">
           <li>
             <a
-              href="#"
+              href="#services"
               title="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
@@ -108,7 +108,7 @@ function Footer() {
 
           <li>
             <a
-              href="#"
+              href="#services"
               title="FaceBook"
               target="_blank"
               rel="noopener noreferrer"
@@ -125,7 +125,7 @@ function Footer() {
 
           <li>
             <a
-              href="#"
+              href="#services"
               title="Twitter"
               target="_blank"
               rel="noopener noreferrer"
